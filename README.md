@@ -1,9 +1,10 @@
+<div class="container">
 
-My CV
-=====
+# My CV
 
-Contact Information
--------------------
+<div class="section">
+
+## Contact Information
 
 Name: Ork Socheata
 
@@ -11,20 +12,29 @@ Email: socheataork15@gmail.com
 
 Phone: 0882185622
 
-Summary
--------
+</div>
+
+<div class="section">
+
+## Summary
 
 Highly motivated&commitment with a passion for digital technology and creativity
 
-Education
----------
+</div>
+
+<div class="section">
+
+## Education
 
 National University of Management
 
 Second Years Student/ Major Marketing & IT
 
-Work Experience
----------------
+</div>
+
+<div class="section">
+
+## Work Experience
 
 English teacher
 
@@ -32,10 +42,17 @@ Marketing & sale intern
 
 Spring Education Center
 
-Skills
-------
+</div>
 
-* Marketing and Sales
-* English speaker
-* HTML website developer
-* Computer(Technical Software)
+<div class="section">
+
+## Skills
+
+*   Marketing and Sales
+*   English speaker
+*   HTML website developer
+*   Computer(Technical Software)
+
+</div>
+
+</div>
